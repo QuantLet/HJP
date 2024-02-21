@@ -1,0 +1,14 @@
+# set pc/developer local paths
+# add to gitignore afterwards
+# set paths to dbs
+
+RESOURCE_PATH:
+  # "C:\\Users\\artur\\OneDrive\\analytics\\resources\\"
+  # "Users\\francis\\Google Drive\\00_IRTG1792\\StochVolModels\\resources"
+  '/Users/francis/Google Drive/00_IRTG1792/StochVolModels/resources/'
+  
+OUTPUT_PATH:
+  "C:\\Users\\artur\\OneDrive\\analytics\\outputs\\"
+
+AWS_POSTGRES:
+  "postgresql://postgres:sigmastrats@db-1.ck9y4lzytxeu.us-east-1.rds.amazonaws.com:5432"

@@ -1,0 +1,17 @@
+Name of Quantlet: 'jumps_premia_realisation'
+
+Published in:     'Jump risk premia in the presence of clustered jumps'
+
+Description:     'Jump risk premia realises as profit and loss.'
+
+Submitted:  '21 Feb 2024'
+
+Keywords: 
+- 'Hawkes Processes'
+- 'Stochastic Jumps'
+- 'Bitcoin Price Jumps'
+- 'Stochastic Process'
+- 'Self-Exciting Jumps'
+
+Author: 
+- 'Francis Liu, Natalie Packham, Artur Sepp'
