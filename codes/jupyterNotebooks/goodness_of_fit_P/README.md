@@ -4,7 +4,7 @@
 
 ```yaml
 
-Name of Quantlet: 'goofness_of_fit_P'
+Name of Quantlet: 'goodness_of_fit_P'
 
 Published in:     'Jump risk premia in the presence of clustered jumps'
 
