@@ -1,0 +1,18 @@
+Name of Quantlet: 'calibration_diagnostic'
+
+Published in:     'Jump risk premia in the presence of clustered jumps'
+
+Description:     'Verification of the jump-size admissibility margins and the risk-neutral spectral-abscissa condition across all calibration dates.'
+
+Submitted:  '17 Aug 2026'
+
+Keywords:
+- 'Hawkes Processes'
+- 'Stochastic Jumps'
+- 'Bitcoin Price Jumps'
+- 'Martingale Conditions'
+- 'Spectral Abscissa'
+- 'Model Calibration'
+
+Author:
+- 'Francis Liu, Natalie Packham, Artur Sepp'
