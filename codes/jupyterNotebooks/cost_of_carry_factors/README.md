@@ -14,13 +14,13 @@ Description: Regressing jump risk premia on BTC cost-of-carry.
 Submitted: 21 Feb 2024
 
 Keywords: 
-- 'Hawkes Processes
-- 'Stochastic Jumps
-- 'Bitcoin Price Jumps
-- 'Stochastic Process
-- 'Self-Exciting Jumps
+- Hawkes Processes
+- Stochastic Jumps
+- Bitcoin Price Jumps
+- Stochastic Process
+- Self-Exciting Jumps
 
 Author: 
-- 'Francis Liu, Natalie Packham, Artur Sepp
+- Francis Liu, Natalie Packham, Artur Sepp
 
 ```
