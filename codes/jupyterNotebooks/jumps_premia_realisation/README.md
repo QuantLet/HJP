@@ -14,13 +14,13 @@ Description: Jump risk premia realises as profit and loss.
 Submitted: 21 Feb 2024
 
 Keywords: 
-- 'Hawkes Processes
-- 'Stochastic Jumps
-- 'Bitcoin Price Jumps
-- 'Stochastic Process
-- 'Self-Exciting Jumps
+- Hawkes Processes
+- Stochastic Jumps
+- Bitcoin Price Jumps
+- Stochastic Process
+- Self-Exciting Jumps
 
 Author: 
-- 'Francis Liu, Natalie Packham, Artur Sepp
+- Francis Liu, Natalie Packham, Artur Sepp
 
 ```
